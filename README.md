@@ -2,4 +2,4 @@
 HTML, CSS, JavaScript with API request.
 
 look this...
-./Pokedex/assets/pokedexProject.PNG
+../Pokedex/assets/pokedexProject.PNG
