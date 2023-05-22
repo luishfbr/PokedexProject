@@ -1,0 +1,2 @@
+# PokedexProject
+HTML, CSS, JavaScript
